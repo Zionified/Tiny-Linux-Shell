@@ -1,18 +1,12 @@
 #####################################################################
-# CS:APP Shell Lab
-#
-# Student Source Files
+# 
+# Tiny Linux Shell
+# 
 ######################################################################
 
-This directory contains the files you will need for the CS:APP Shell
-Lab.
-
 tsh.c
-        This is the file you will be modifying and handing in.
-
-#########################################
-# You shouldn't modify any of these files
-#########################################
+        Contains codes that support Tiny Linux Shell's functionalities
+        
 tsh_helper.{c,h}
         Implements some of the utility routines you will need
 
